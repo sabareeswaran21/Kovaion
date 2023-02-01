@@ -1,0 +1,18 @@
+.first{
+    height: 80vh;
+    width: 80%;
+}
+.background{
+    background-image: url("comp1.png");
+    min-height: 100%;
+    width: 100%;
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h5{
+    color: white;
+}
+label{
+    color: white;
+}
